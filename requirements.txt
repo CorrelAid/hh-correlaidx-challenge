@@ -1,0 +1,7 @@
+# python packages
+
+pip==20.0.2
+pylint==2.5.3
+ipython==7.16.1
+jupyter==1.0.0
+datenguidepy==0.3.1
