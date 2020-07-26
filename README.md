@@ -16,4 +16,7 @@ because different areas are grouped together*
 
 ### Regional codes
 - States have codes '01' to '16'
-- No obvious way to gat spacial information within Hamburg
+- No obvious way to gather spacial information within Hamburg
+- Smallest granularity seems to be 'Kreis'
+- See [Wiki](https://de.wikipedia.org/wiki/NUTS:DE#Liste_der_NUTS-Regionen_in_Deutschland_(NUTS_2016))
+for explanations on 'nuts'
