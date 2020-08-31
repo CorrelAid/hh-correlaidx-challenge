@@ -1,4 +1,4 @@
-# hh-correlaidx-challenge#  
+# hh-correlaidx-challenge  
 
 analysis_states.ipynb and utils.ipynb files are used for creating the input files in saves directory.  
 --------------
