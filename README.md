@@ -1,12 +1,14 @@
 # Child Well-Being in Germany 
 
 ---
+
 This project was conducted in the context of the [CorrelAid](https://correlaid.org/) local chapter challenge 
 July - September 2020 by the [local chapter of Hamburg](https://correlaid.org/correlaid-x/hamburg/).
 
 Contributors: 
 Martin Wong, Vivika Wilde, Sarah Wenzel, Drenizë Rama, Long Nguyen, Trisha Nath, Christine Martens, 
 Mauricio Malzer, Andre Kochanke, Eva Jaumann
+
 ---
 
 Germany belongs to the rich countries, nevertheless this is not a guarantee that all children and adolescents
@@ -24,7 +26,9 @@ citizens. There are many different factors which contribute to the well-being of
 
 To each category different metrics are used, so that it is challenging to calculate one single value which reports
 the well-being of a country.
+
 ---
+
 **NOTE**
 
 Our goal of this project was not to calculate one single metric to evaluate happiness, but to raise awareness to
